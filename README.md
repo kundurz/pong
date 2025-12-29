@@ -20,4 +20,3 @@ event handling, rendering, and simple AI behavior in C.
 
 - `W` or `UP` – Move paddle up
 - `S` or `DOWN` – Move paddle down
-- `ESC` – Quit the game
